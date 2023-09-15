@@ -42,6 +42,109 @@ EDA involved exploring the car data to answer key questions such as;
 15.What is the average price and mileage of cars in each location?
 16.What is the car brand and model price that are above average?
 
+### Data Analysis
+Include some interesting code/features worked with
+```SELECT color,SUM(mileage) AS total_mileage
+FROM cars
+GROUP BY color
+ORDER BY total_mileage DESC;
+```
+
+```
+SELECT brand,ROUND(AVG(price),2) AS avg_price
+FROM cars
+GROUP BY brand
+ORDER BY avg_price DESC
+LIMIT 5;
+```
+
+```
+SELECT brand,year,COUNT(*) AS num_of_brand
+FROM cars
+GROUP BY year,brand
+ORDER BY num_of_brand DESC;
+```
+
+
+ ``` SELECT
+    color,
+    COUNT(*) AS color_count,
+    DENSE_RANK() OVER (ORDER BY COUNT(*) DESC) AS color_rank
+  FROM cars
+  GROUP BY color;
+```
+ 
+```SELECT year,count(*) AS num_of_cars
+FROM cars
+GROUP BY year;
+```
+
+``` SELECT year,brand,sum(mileage) AS sum_mileage
+FROM cars
+GROUP BY year,brand;
+```
+
+``` SELECT year, SUM(price) AS total_price_car
+FROM cars
+GROUP BY year
+ORDER BY total_price_car DESC;
+```
+
+``` SELECT color,COUNT(*) AS num_of_car
+ FROM 
+ cars WHERE price > (SELECT AVG(price) FROM cars) 
+ GROUP BY color;
+```
+ 
+``` SELECT location,brand,model,MAX(price) AS exp_car
+ FROM cars
+ GROUP BY location,brand,model
+ ORDER BY exp_car DESC
+ LIMIT 5;
+```
+ 
+``` SELECT year,brand,ROUND(AVG(mileage),2) AS avg_mileage
+FROM cars
+GROUP BY brand,year
+ORDER BY  avg_mileage DESC;
+```
+ 
+``` SELECT location,SUM(price) AS total_sold_car
+FROM cars
+GROUP BY location
+ORDER BY total_sold_car DESC;
+```
+
+``` SELECT brand,ROUND(MAX(price/mileage),2) AS price_mileage_ratio
+FROM cars
+GROUP BY brand
+ORDER BY price_mileage_ratio DESC;
+```
+
+``` SELECT brand, ROUND(stddev(price)/AVG(price),2) coefficient_of_variation 
+FROM cars
+GROUP BY brand;
+```
+
+```
+SELECT MAX(price) - MIN(price) AS pricedifference
+FROM cars;
+```
+
+```
+SELECT location,ROUND(AVG(Price),2) AS avg_price,ROUND(AVG(Mileage),2) AS avg_mileage
+FROM cars
+GROUP BY location
+ORDER BY avg_price DESC,avg_mileage DESC;
+```
+
+```
+SELECT brand,model,price
+FROM cars
+WHERE price >(SELECT AVG(price) AS avg_price FROM cars);
+```
+
+
 
 
     
