@@ -2,8 +2,11 @@
 
 #### Table Of Contents
 -[Project Overviews](#Project_Overview)
+
 -[Data Sources](#Data_Sources)
+
 -[Tools](#Tools)
+
 -[Data Cleaning/Preparation](#Data Cleaning/Preparation)
 
 ### Project Overview
@@ -169,6 +172,17 @@ SELECT brand,model,price
 FROM cars
 WHERE price >(SELECT AVG(price) AS avg_price FROM cars);
 ```
+
+### Results/Findings
+
+
+
+### Recommendations 
+
+
+### References 
+
+
 
 
 
