@@ -192,7 +192,7 @@ The analysis results are summarized as follows:
 12.Hyundai palisade is  the most expensive car in san francisco
 13.silver color has more car mileage in each year
 14.Honda brand has most total mileage used in each year
-15.Dallas has more revenue earned by cars sold in each location
+15.Dallas generate revenue earned  sold in each location
 
 
 
