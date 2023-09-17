@@ -16,7 +16,7 @@ The data project aims to provide concise insights about the performances of cars
 Car Data:The primary database used for this analysis is the "car_data.cvs" file from kaggle, Containing detailed information about each Car_id,brand,model,year,color,mileage,price and location
 
 ### Tools 
-- Excel - Data cleaning to check if there are missing values and duplicate records  [Dowload Herehttps://www.kaggle.com/datasets](https)
+- Excel - Data cleaning to check if there are missing values and duplicate records  [Download Herehttps://www.kaggle.com/datasets](https)
 - MYSQL - Data Analysis
 - Power BI - Creating Reports
 
