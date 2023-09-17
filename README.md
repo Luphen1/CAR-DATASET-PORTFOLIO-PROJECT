@@ -181,13 +181,13 @@ The analysis results are summarized as follows:
 1.Toyota brand has more mileage for each year of production
 
 
-2.There are huge of profit for the expensive car brand of worth of $17000
+2.There are huge of profit for the expensive car brand worth of $17000
 
 
 3.There should be more production of cars in los angeles while dallas has the most profitable production
 
 
-4.Hyundai brand are way more profitable car
+4.Hyundai brand car are way more profitable car
 
 
 5.High production of white cars would be a plus and generate more money for the company
@@ -226,6 +226,22 @@ The analysis results are summarized as follows:
 
 
 ### Recommendations 
+Based on my analysis, I recommend the following actions;
+
+1.Production of Toyota car brand should be encouraged for each year
+
+
+2.Expensive cars generate more money
+
+
+3.Los Angeles production will increase more car sales, while dallas is more favourable
+
+
+4.Hyundai brand are good car one could make alot of profit
+
+
+5.White cars would be a plus and generate more money for the company
+
 
 
 
