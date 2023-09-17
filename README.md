@@ -28,6 +28,7 @@ In the initgial data preparation, i performed the ffollowing task;
 
 ### Exploration Data Analysis
 EDA involved exploring the car data to answer key questions such as;
+
 1.Find the total mileage of cars by color?
 
 2.Which car brand has the top five average price?
@@ -170,10 +171,29 @@ ORDER BY avg_price DESC,avg_mileage DESC;
 ```
 SELECT brand,model,price
 FROM cars
-WHERE price >(SELECT AVG(price) AS avg_price FROM cars);
+WHERE price > (SELECT AVG(price) AS avg_price FROM cars);
 ```
 
 ### Results/Findings
+
+The analysis results are summarized as follows:
+
+1.Toyota brand has more mileage for each year of production
+2.There are huge of profit for the expensive car brand of worth of 17000
+3.There should be more production of cars in los angeles while dallas has the most profitable production
+4.Hyundai brand are way more profitable car
+5.High production of white cars would be a plus and generate more money for the company
+6.Hyundai has more coefficient variation of car brand
+7.Production of honda and ford car in 2017 and 2018, Generate more sales in those stated year
+8.2019 and 2017 has more production of cars in each year
+9.Red color has more price above the average price for car
+10.Toyota,chevrolet,Hyundai,Ford and Honda has the top five most expensive car brands
+11.2019 has the highest sales of cars in each year
+12.Hyundai palisade is  the most expensive car in san francisco
+13.silver color has more car mileage in each year
+14.Honda brand has most total mileage used in each year
+15.Dallas has more revenue earned by cars sold in each location
+
 
 
 
