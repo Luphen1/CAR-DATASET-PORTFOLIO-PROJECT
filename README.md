@@ -222,7 +222,7 @@ The analysis results are summarized as follows:
 14.Honda brand has most total mileage used in each year
 
 
-15.Dallas generate the highest sales in each in each location
+15.Dallas generate the highest sales in each location
 
 
 
@@ -243,6 +243,9 @@ Based on my analysis, I recommend the following actions;
 
 
 5.White cars would be a plus and generate more money for the company
+
+
+6
 
 
 
