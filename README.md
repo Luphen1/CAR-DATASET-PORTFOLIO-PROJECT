@@ -220,7 +220,7 @@ The analysis results are summarized as follows:
 14.Honda brand has most total mileage used in each year
 
 
-15.Dallas generate revenue earned  sold in each location
+15.Dallas generate the highest sales in each in each location
 
 
 
