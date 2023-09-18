@@ -9,7 +9,16 @@
 
 -[Tools](#Tools)
 
--[Data Cleaning/Preparation](#Data Cleaning/Preparation)d
+-[Data Cleaning/Preparation](#Data Cleaning/Preparation)
+
+-[Exploration Data Analysis](#Exploration Data Analysis)
+
+-[Data Analysis](#Data Analysis)
+
+-[Results/Findings](#Results/Findings)
+
+-[Recommendations](#Recommendations)  
+
 
 ### Project Overview
 The data project aims to provide a concised insights about the performances of cars over the past few years. By analyzing variouus aspects of the car datasets, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
