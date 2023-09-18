@@ -21,7 +21,7 @@ Car Data:The primary database used for this analysis is the "car_data.cvs" file 
 - Power BI - Creating Reports
 
 ### Data Cleaning/Preparation
-In the initgial data preparation, i performed the ffollowing task;
+In the initgial data preparation, i performed the following task;
 1. Data loading and inspection
 2. Handling for missing values
 3. Checking for duplicate values
