@@ -13,7 +13,7 @@
 
 -  [Exploration Data Analysis](#Recommendation)
 
--  [Data Analysis](#Data Analysis)
+-  [Data Analysis](#Recommendation)
 
 -  [Results/Findings](#Results/Finding)
 
