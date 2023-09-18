@@ -9,11 +9,11 @@
 
 -  [Tools](#Tools)
 
--  [Data Cleaning/Preparation](#Recommendations) 
+-  [Data Cleaning/Preparation](#C) 
 
--  [Exploration Data Analysis](#Exploration Data Analysis)
+-  [Exploration Data Analysis](#Recommendation)
 
--  [Data Analysis](#Data Analysi)
+-  [Data Analysis](#Recommendations)
 
 -  [Results/Findings](#Results/Finding)
 
