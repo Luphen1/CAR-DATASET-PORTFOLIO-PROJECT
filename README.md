@@ -12,18 +12,18 @@
 -[Data Cleaning/Preparation](#Data Cleaning/Preparation)d
 
 ### Project Overview
-The data project aims to provide concised insights about the performances of cars over the past few years. By analyzing variouus aspects of the car datasets, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
+The data project aims to provide a concised insights about the performances of cars over the past few years. By analyzing variouus aspects of the car datasets, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
 
 ### Data Sources
 Car Data:The primary database used for this analysis is the "car_data.cvs" file from kaggle, Containing detailed information about each Car_id,brand,model,year,color,mileage,price and location
 
 ### Tools 
-- Excel - Data cleaning to check if there are missing values and duplicate records  [Download Here   https://www.kaggle.com/datasets](https)
+- Excel - Data cleaning to check if there are missing values and duplicate records  [Download Here      https://www.kaggle.com/datasets](https)
 - MYSQL - Data Analysis
 - Power BI - Creating Reports
 
 ### Data Cleaning/Preparation
-In the initgial data preparation, i performed the following task;
+In the initial data preparation, i performed the following task;
 1. Data loading and inspection
 2. Handling for missing values
 3. Checking for duplicate values
@@ -183,7 +183,7 @@ The analysis results are summarized as follows:
 1.Toyota brand has more mileage for each year of production
 
 
-2.There are huge of profit for the expensive car brand worth of $17000
+2.The price difference between the most expensive and cheapest car is 17000
 
 
 3.There should be more production of cars in los angeles while dallas has the most profitable production
@@ -216,7 +216,7 @@ The analysis results are summarized as follows:
 12.Hyundai palisade is  the most expensive car in san francisco
 
 
-13.silver color has more car mileage in each year
+13.Silver color has more car mileage in each year
 
 
 14.Honda brand has most total mileage used in each year
