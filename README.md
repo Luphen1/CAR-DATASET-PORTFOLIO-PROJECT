@@ -213,7 +213,7 @@ The analysis results are summarized as follows:
 11.2019 has the highest sales of cars in each year
 
 
-12.Hyundai palisade is  the most expensive car in san francisco
+12.Hyundai palisade is the most expensive car in san francisco
 
 
 13.Silver color has more car mileage in each year
@@ -245,12 +245,12 @@ Based on my analysis, I recommend the following actions;
 5.White cars would be a plus and generate more money for the company
 
 
-6
+6.Toyota,Chevrolet,Hyundai,Ford and Honda should has high rate of production across each location
 
 
 
 
-### References 
+
 
 
 
