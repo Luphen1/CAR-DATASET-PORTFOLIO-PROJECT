@@ -3,21 +3,21 @@
 #### Table Of Contents
 ------------
 
--[Project Overviews](#Project_Overview)
+[Project Overviews](#Project_Overview)
 
--[Data Sources](#Data_Sources)
+[Data Sources](#Data_Sources)
 
--[Tools](#Tools)
+[Tools](#Tools)
 
--[Data Cleaning/Preparation](#Data Cleaning/Preparation)
+[Data Cleaning/Preparation](#Data Cleaning/Preparation)
 
--[Exploration Data Analysis](#Exploration Data Analysis)
+[Exploration Data Analysis](#Exploration Data Analysis)
 
--[Data Analysis](#Data Analysis)
+[Data Analysis](#Data Analysis)
 
--[Results/Findings](#Results/Findings)
+[Results/Findings](#Results/Findings)
 
--[Recommendations](#Recommendations)  
+[Recommendations](#Recommendations)  
 
 
 ### Project Overview
