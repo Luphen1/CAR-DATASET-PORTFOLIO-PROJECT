@@ -21,7 +21,7 @@
 
 
 ### Project Overview
-The data project aims to provide a concised insights about the performances of cars over the past few years. By analyzing various aspects of the car dataset, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
+The data project aims to provide an insights about the performances of cars over the past few years. By analyzing various aspects of the car dataset, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
 
 ### Data Sources
 Car Data:The primary database used for this analysis is the "car_data.cvs" file from kaggle, Containing detailed information about each Car_Id,brand,model,year,color,mileage,price and location
