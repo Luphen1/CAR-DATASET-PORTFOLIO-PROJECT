@@ -25,7 +25,8 @@ The data project aims to provide an insights about the performances of cars over
 
 
 
-[Uploading CAR_ DASHBOARD_ REPORT.pdf…]()
+![Uploading Screenshot (6).png…]()
+
 
 
 
