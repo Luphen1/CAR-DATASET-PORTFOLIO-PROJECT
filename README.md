@@ -24,7 +24,8 @@
 The data project aims to provide an insights about the performances of cars over the past few years. By analyzing various aspects of the car dataset, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
 
 
-![CARS DASHBOARD REPORT - Power BI Desktop 27-Aug-23 9_45_54 PM (3)](https://github.com/Luphen1/CAR-DATASET-PORTFOLIO-PROJECT/assets/140397207/eabbcb74-93a5-4aeb-a7c5-e2119bf5831c)
+file:///C:/Users/OLUWAFEMI/OneDrive/CAR_%20DASHBOARD_%20REPORT.pdf
+
 
 
 ### Data Sources
