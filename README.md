@@ -9,11 +9,11 @@
 
 -  [Tools](#Tools)
 
--  [Data Cleaning/Preparation](#C) 
+-  [Data Cleaning/Preparation](#Data_cleaning/Preparation) 
 
 -  [Exploration Data Analysis](#Recommendation)
 
--  [Data Analysis](#Recommendation)
+-  [Data Analysis](#Data_Analysis)
 
 -  [Results/Findings](#Results/Finding)
 
@@ -23,7 +23,7 @@
 ### Project Overview
 The data project aims to provide an insights about the performances of cars over the past few years. By analyzing various aspects of the car dataset, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
 
-![Uploading Screenshot (6).png…]()
+![Car Dashboard Report](https://github.com/Luphen1/CAR-DATASET-PORTFOLIO-PROJECT/assets/140397207/4a472ab1-3faa-4824-9cef-938fe13816cd)
 
 
 
