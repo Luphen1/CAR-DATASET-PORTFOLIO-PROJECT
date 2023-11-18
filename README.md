@@ -23,8 +23,6 @@
 ### Project Overview
 The data project aims to provide an insights about the performances of cars over the past few years. By analyzing various aspects of the car dataset, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
 
-
-
 ![Uploading Screenshot (6).png…]()
 
 
