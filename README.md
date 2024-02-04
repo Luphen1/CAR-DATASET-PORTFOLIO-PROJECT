@@ -40,6 +40,9 @@ In the initial data preparation, i performed the following task;
 1. Data loading and inspection
 2. Handling for missing values
 3. Checking for duplicate values
+4. Convert each headers to the right data type
+5. Outlier Detection and Handling
+6. Handling Inconsistent Data and Typos
 
 ### Exploration Data Analysis
 EDA involved exploring the car data to answer key questions such as;
