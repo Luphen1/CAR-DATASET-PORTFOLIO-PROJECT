@@ -197,36 +197,36 @@ WHERE price > (SELECT AVG(price) AS avg_price FROM cars);
 
 The analysis results are summarized as follows:
 
-1.	Toyota brand has higher mileage for each year of production.
+1. Toyota brand has higher mileage for each year of production.
    
-2.	The price difference between the most expensive and cheapest car is $17,000.
+2. The price difference between the most expensive and cheapest car is $17,000.
 	
-3.	There should be more production of cars in Los Angeles, while Dallas has the most profitable production.
+3. There should be more production of cars in Los Angeles, while Dallas has the most profitable production.
    
-4.	Hyundai brand cars are significantly more profitable.
+4. Hyundai brand cars are significantly more profitable.
    
-5.	High production of white cars would be advantageous and generate more revenue for the company.
+5. High production of white cars would be advantageous and generate more revenue for the company.
 	
-6.	Hyundai has a higher coefficient of variation among car brands.
+6. Hyundai has a higher coefficient of variation among car brands.
    
-7.	Production of Honda and Ford cars in 2017 and 2018 generated more sales in those years.
+7. Production of Honda and Ford cars in 2017 and 2018 generated more sales in those years.
 
-8.      Each of the years 2019 and 2017 individually had more car production compared to other years,
-        The combined production of cars in 2019 and 2017 was higher than the combined production of cars in other years.
+8. Each of the years 2019 and 2017 individually had more car production compared to other years,
+   The combined production of cars in 2019 and 2017 was higher than the combined production of cars in other years.
 
-9.      Cars in red color tended to have prices above the average price for a car.
+9. Cars in red color tended to have prices above the average price for a car.
 
-10.     The top five most expensive car brands were Toyota, Chevrolet, Hyundai, Ford, and Honda.
+10. The top five most expensive car brands were Toyota, Chevrolet, Hyundai, Ford, and Honda.
 
-11.     The year 2019 had the highest sales of cars compared to other years.
+11. The year 2019 had the highest sales of cars compared to other years.
 
-12.     The Hyundai Palisade was identified as the most expensive car in San Francisco.
+12. The Hyundai Palisade was identified as the most expensive car in San Francisco.
 
-13.     Cars in silver color had higher mileage in each year.
+13. Cars in silver color had higher mileage in each year.
 
-14.     The Honda brand had the most total mileage used in each year.
+14. The Honda brand had the most total mileage used in each year.
 
-15.     Dallas consistently generated the highest sales in each location
+15. Dallas consistently generated the highest sales in each location
 
 
 
@@ -234,17 +234,17 @@ The analysis results are summarized as follows:
 ### Recommendations 
 Based on my analysis, I recommend the following actions:
 
-1.	Encourage the production of Toyota car brand for each year.
+1. Encourage the production of Toyota car brand for each year.
 	
-2.	Focus on producing more expensive cars as they generate higher revenue.
+2. Focus on producing more expensive cars as they generate higher revenue.
    
-3.	Increase production in Los Angeles to boost car sales, while maintaining a favorable production level in Dallas.
+3. Increase production in Los Angeles to boost car sales, while maintaining a favorable production level in Dallas.
    
-4.	Emphasize Hyundai brand cars as they are profitable products to generate revenue.
+4. Emphasize Hyundai brand cars as they are profitable products to generate revenue.
 	
-6.	Prioritize the production of white cars, as they have the potential to generate more revenue for the company.
+5. Prioritize the production of white cars, as they have the potential to generate more revenue for the company.
     
-7.	Implement a strategy to increase production rates of Toyota, Chevrolet, Hyundai, Ford, and Honda across all locations
+6. Implement a strategy to increase production rates of Toyota, Chevrolet, Hyundai, Ford, and Honda across all locations
 
 
 
