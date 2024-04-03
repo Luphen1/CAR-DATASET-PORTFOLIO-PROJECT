@@ -211,22 +211,22 @@ The analysis results are summarized as follows:
    
 7.	Production of Honda and Ford cars in 2017 and 2018 generated more sales in those years.
 
-8.Each of the years 2019 and 2017 individually had more car production compared to other years,
-  The combined production of cars in 2019 and 2017 was higher than the combined production of cars in other years.
+8.      Each of the years 2019 and 2017 individually had more car production compared to other years,
+        The combined production of cars in 2019 and 2017 was higher than the combined production of cars in other years.
 
-9.Red color had more price above the average price for car
+9.      Cars in red color tended to have prices above the average price for a car.
 
-10.Toyota, Chevrolet, Hyundai, Ford and Honda had the top five most expensive car brands
+10.     The top five most expensive car brands were Toyota, Chevrolet, Hyundai, Ford, and Honda.
 
-11.2019 has the highest sales of cars in each year
+11.     The year 2019 had the highest sales of cars compared to other years.
 
-12.Hyundai palisade is the most expensive car in san francisco
+12.     The Hyundai Palisade was identified as the most expensive car in San Francisco.
 
-13.Silver color had more car mileage in each year
+13.     Cars in silver color had higher mileage in each year.
 
-14.Honda brand had most total mileage used in each year
+14.     The Honda brand had the most total mileage used in each year.
 
-15.Dallas generate the highest sales in each location
+15.     Dallas consistently generated the highest sales in each location
 
 
 
