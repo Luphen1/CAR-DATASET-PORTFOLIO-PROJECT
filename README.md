@@ -197,48 +197,34 @@ WHERE price > (SELECT AVG(price) AS avg_price FROM cars);
 
 The analysis results are summarized as follows:
 
-1.Toyota brand has more mileage for each year of production
-
-
-2.The price difference between the most expensive and cheapest car is 17000
-
-
-3.There should be more production of cars in los angeles while dallas has the most profitable production
-
-
-4.Hyundai brand car are way more profitable car
-
-
-5.High production of white cars would be a plus and generate more money for the company
-
-
-6.Hyundai has more coefficient variation of car brand
-
-
-7.The production of Honda and Ford cars in 2017 and 2018 generated higher sales during those years
-
+1.	Toyota brand has higher mileage for each year of production.
+   
+2.	The price difference between the most expensive and cheapest car is $17,000.
+	
+3.	There should be more production of cars in Los Angeles, while Dallas has the most profitable production.
+   
+4.	Hyundai brand cars are significantly more profitable.
+   
+5.	High production of white cars would be advantageous and generate more revenue for the company.
+	
+6.	Hyundai has a higher coefficient of variation among car brands.
+   
+7.	Production of Honda and Ford cars in 2017 and 2018 generated more sales in those years.
 
 8.Each of the years 2019 and 2017 individually had more car production compared to other years,
   The combined production of cars in 2019 and 2017 was higher than the combined production of cars in other years.
 
-
 9.Red color had more price above the average price for car
-
 
 10.Toyota, Chevrolet, Hyundai, Ford and Honda had the top five most expensive car brands
 
-
 11.2019 has the highest sales of cars in each year
-
 
 12.Hyundai palisade is the most expensive car in san francisco
 
-
 13.Silver color had more car mileage in each year
 
-
 14.Honda brand had most total mileage used in each year
-
 
 15.Dallas generate the highest sales in each location
 
@@ -246,19 +232,22 @@ The analysis results are summarized as follows:
 
 
 ### Recommendations 
-Based on my analysis, I recommend the following actions;
+Based on my analysis, I recommend the following actions:
 
-1.Production of Toyota car brand should be encouraged for each year
+1.	Encourage the production of Toyota car brand for each year.
+	
+2.	Focus on producing more expensive cars as they generate higher revenue.
+   
+3.	Increase production in Los Angeles to boost car sales, while maintaining a favorable production level in Dallas.
+   
+4.	Emphasize Hyundai brand cars as they are profitable products to generate revenue.
+	
+6.	Prioritize the production of white cars, as they have the potential to generate more revenue for the company.
+    
+7.	Implement a strategy to increase production rates of Toyota, Chevrolet, Hyundai, Ford, and Honda across all locations
 
-2.Expensive cars generate more money
 
-3.Los Angeles production will increase more car sales, while Dallas is more favorable
 
-4.Hyundai brand are good car product to generte alot of revenue
-
-5.White cars would be a plus and generate more revenue for the company
-
-6.Toyota, Chevrolet, Hyundai, Ford and Honda should have high rate of production across each location
 
 
 
