@@ -22,31 +22,53 @@
 
 
 ### Project Overview
-The data project aims to provide an insights about the performances of cars over the past few years. By analyzing various aspects of the car dataset, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
+The data project aims to provide an insight about the performances of cars over the past few years. By analyzing various aspects of the car dataset, I was able to make data-driven recommendation and gaining proficient understanding for each car performances.
 
 ![Car Dashboard Report](https://github.com/Luphen1/CAR-DATASET-PORTFOLIO-PROJECT/assets/140397207/4a472ab1-3faa-4824-9cef-938fe13816cd)
 
 
 
 ### Data Sources
-Car Data:The primary database used for this analysis is the "car_data.cvs" file from kaggle, Containing detailed information about each Car_Id,brand,model,year,color,mileage,price and location
+Car Data: The primary database used for this analysis is the "car_data.cvs" file from Kaggle, Containing detailed information about each Car_Id, brand, model, year, color, mileage, price and location.
 
 ### Tools 
-- Excel - Data cleaning to check if there are missing values and duplicate records  [Download Here      https://www.kaggle.com/datasets](https)
-- MYSQL - Data Analysis
-- Power BI - Creating Reports
+- Excel
+  
+[Download Here      https://www.kaggle.com/datasets](https)
+Data Cleaning: Excel was used to perform initial data cleaning tasks such as checking for missing values and duplicate records.
+
+Downloaded the dataset from Kaggle and opened it in Excel.
+
+Use Excel's functionalities to identify and handle missing values and duplicate records.
+
+Saved the cleaned dataset for further analysis.
+
+- MYSQL
+  
+Once the data was cleaned and prepared in Excel, I imported it into MySQL for deeper analysis.
+
+Create a MySQL database and tables to store the cleaned data.
+
+Use SQL queries to analyze the data, perform aggregations and other necessary operations.
+
+Generate insights and conclusions based on the analyzed data.
+
+- Power BI
+  
+ Used to create visual reports based on the cleaned and transformed data design and create visualizations such as charts, graphs, and dashboards to represent the key findings.
 
 ### Data Cleaning/Preparation
-In the initial data preparation, i performed the following task;
-1. Data loading and inspection
-2. Handling for missing values
-3. Checking for duplicate values
-4. Convert each headers to the right data type
-5. Outlier Detection and Handling
-6. Handling Inconsistent Data and Typos
+In the initial data preparation, I performed the following task:
+
+1. Data loading and inspection.
+2. Handling for missing values.
+3. Checking for duplicate values.
+4. Convert each header to the right data type.
+5. Outlier Detection and Handling.
+6. Handling Inconsistent Data and Typos.
 
 ### Exploration Data Analysis
-EDA involved exploring the car data to answer key questions such as;
+EDA involved exploring the car data to answer key questions such as:
 
 1.Find the total mileage of cars by color?
 
