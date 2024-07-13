@@ -35,7 +35,7 @@ Car Data: The primary database used for this analysis is the "car_data.cvs" file
 - Excel
   
 [Download Here      https://www.kaggle.com/datasets](https)
-Data Cleaning: Excel was used to perform initial data cleaning tasks such as checking for missing values and duplicate records.
+Data Cleaning: Excel was utilized to perform initial data cleaning tasks such as checking for missing values,outliers and duplicate records.
 
 Downloaded the dataset from Kaggle and opened it in Excel.
 
@@ -46,16 +46,14 @@ Saved the cleaned dataset for further analysis.
 - MYSQL
   
 Once the data was cleaned and prepared in Excel, I imported it into MySQL for deeper analysis.
-
-Create a MySQL database and tables to store the cleaned data.
-
-Use SQL queries to analyze the data, perform aggregations and other necessary operations.
+set
+Utilized MySQL queries to interact with the dataset and analyzed the dataset to gain insights.
 
 Generate insights and conclusions based on the analyzed data.
 
 - Power BI
   
- Used to create visual reports based on the cleaned and transformed data design and create visualizations such as charts, graphs, and dashboards to represent the key findings.
+Utilized visualizations such as charts, graphs, and dashboards to communicate insights and represent key findings.
 
 ### Data Cleaning/Preparation
 In the initial data preparation, I performed the following task:
@@ -63,9 +61,8 @@ In the initial data preparation, I performed the following task:
 1. Data loading and inspection.
 2. Handling for missing values.
 3. Checking for duplicate values.
-4. Convert each header to the right data type.
-5. Outlier Detection and Handling.
-6. Handling Inconsistent Data and Typos.
+4. Outliers detection and Handling.
+5. Handling Inconsistent data and typos.
 
 ### Exploration Data Analysis
 EDA involved exploring the car data to answer key questions such as:
@@ -76,31 +73,31 @@ EDA involved exploring the car data to answer key questions such as:
 
 3.How many cars of each brand are manufacture in each year?
 
-4.What is the most common car color in the database?
+4.What was the most common car color in the database?
 
 5.How many cars were manufactured in each year?
 
 6.Fetch brand with the total mileage in each year?
 
-7.What is the total price of cars sold in each year?
+7.What was the total price of cars sold in each year?
 
 8.How many cars of each color have a price above the average price of all cars?
 
-9.What is the top five expensive cars in each location?
+9.What was the top five expensive cars in each location?
 
 10.Fecth brand and average mileage per year?
 
-11.What is the total price of cars sold in each location?
+11.What was the total price of cars sold in each location?
 
 12.What car brand has price to mileage ratio?
 
 13.Calculate the coefficient of variation of a car prices for each brands.
 
-14.What is the price difference between the cheapest and the most expensive cars
+14.What was the price difference between the cheapest and the most expensive cars
 
-15.What is the average price and mileage of cars in each location?
+15.What was the average price and mileage of cars in each location?
 
-16.What is the car brand and model price that are above average?
+16.What was the car brand and model price that are above average?
 
 ### Data Analysis
 Include some interesting code/features worked with
