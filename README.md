@@ -100,7 +100,8 @@ EDA involved exploring the car data to answer key questions such as:
 16.What was the car brand and model price that are above average?
 
 ### Data Analysis
-Include some interesting code/features worked with
+Included some interesting code/features worked with
+
 ```
 SELECT color,SUM(mileage) AS total_mileage
 FROM cars
